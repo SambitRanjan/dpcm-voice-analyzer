@@ -1,0 +1,3 @@
+# dpcm-voice-analyzer
+
+I have worked on this project of Digital pulse modulation because it's necessary to predict sample value. Digital pulse code modulation compression depends on the prediction technique, well-conducted prediction techniques lead to good compression rates, in other cases Digital pulse code modulation could mean expansion, comparing to regular pulse code modulation encoding. There are lots of challenges that Digital pulse code modulation solves over Pulse code modulation techniques that I've observed throughout the project, realization of basic concept is based on a technique in which I have to predict current sample value based upon previous samples and I have to encode the difference between actual value of sample and predicted value.
